@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="港台",中天新闻1
-https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
-#EXTINF:-1 group-title="港台",中天新闻2
-https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
-#EXTINF:-1 group-title="港台",中天新闻3
-https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
-#EXTINF:-1 group-title="港台",中天新闻4
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
